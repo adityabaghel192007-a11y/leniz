@@ -10,7 +10,7 @@ A sleek, premium landing page designed for a high-end fragrance brand. This proj
 * **Zero Dependencies:** Built entirely with vanilla HTML5 and CSS3.
 
 ## 🚀 Live Demo
-[View the live website here](https://your-username.github.io/your-repository-name) *(Note: Update this link once your GitHub Pages site is live!)*
+https://adityabaghel192007-a11y.github.io/leniz/
 
 ## 🛠️ Tech Stack
 * **HTML5:** Semantic structure and accessible layout.
